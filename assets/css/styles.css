@@ -1,0 +1,24 @@
+#virus-background {
+    background-image: url('https://media2.giphy.com/media/UUsOy6IWmzw6mmeOpQ/200w.webp?cid=ecf05e47d48wmp9fs77i0vk0k897dbwf01u0hz1mhmrjzqgp&ep=v1_gifs_search&rid=200w.webp&ct=g');
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#text {
+    font-weight: bold;
+    font-size: large;
+}
+
+.col-md-12.jumbotron.text-center {
+    background-image: url('https://media.tenor.com/LQqJ0__fIFwAAAAC/dance-shower.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:green;
+    background-color: transparent;
+}   
