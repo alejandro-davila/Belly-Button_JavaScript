@@ -1,7 +1,7 @@
 <img width="1440" alt="Screenshot 2023-01-11 at 8 20 45 AM" src=https://github.com/alejandro-davila/Belly-Button_JavaScript/assets/135288005/8808ac18-2226-4f2e-93a3-288b6701b012>
 
 <h1 align="center">Deployment</h1>
-Here is a link to the dashboard: https://alejandro-davila.github.io/Belly-Button-Challenge_JavaScript/
+Here is a link to the dashboard: https://alejandro-davila.github.io/Belly-Button_JavaScript/
 
 <h1 align="center">Background</h1>
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
