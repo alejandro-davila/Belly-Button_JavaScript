@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-01-11 at 8 20 45 AM" src="https://github.com/alejandro-davila/Belly-Button-Challenge_JavaScript/assets/135288005/a3543df7-465b-4d32-b81b-4945cc315677">
+<img width="1440" alt="Screenshot 2023-01-11 at 8 20 45 AM" src=https://github.com/alejandro-davila/Belly-Button_JavaScript/assets/135288005/8808ac18-2226-4f2e-93a3-288b6701b012>
 
 <h1 align="center">Deployment</h1>
 Here is a link to the dashboard: https://alejandro-davila.github.io/Belly-Button-Challenge_JavaScript/
